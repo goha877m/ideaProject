@@ -1,4 +1,4 @@
 # Operating System Files
 
-target/
+/target
 *.iml
